@@ -1,0 +1,19 @@
+.sticker_ananas {
+    bottom: -30px;
+    right: -30px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 130px;
+    height: 125px;
+    background-image: url('../../../img/Union.svg');
+
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    text-transform: uppercase;
+
+    color: #016450;
+    transform: rotate(10deg);
+}

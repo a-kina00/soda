@@ -1,0 +1,8 @@
+.button__color_purple {
+    background-color: #A27BFF;
+    color: white;
+}
+
+.button__color_purple:hover {
+    outline: 2px solid #E1FD2C;
+}

@@ -1,0 +1,8 @@
+.button__color_yellow {
+    background-color: #FFDB00;
+    color: #1E3264;
+}
+
+.button__color_yellow:hover {
+    outline: 2px solid #1E3264;
+}

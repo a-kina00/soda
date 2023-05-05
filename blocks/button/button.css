@@ -1,0 +1,21 @@
+.button {
+    border: 0;
+    cursor: pointer;
+    width: 163px;
+    height: 55px;
+
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 31px;
+
+    letter-spacing: 0.3px;
+
+    transition: all .15s linear;
+    outline: 0 solid transparent;
+
+    z-index: 2;
+}
+
+.button:hover {
+    border-radius: 10px;
+}
